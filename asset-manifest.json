@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NewRevolutionXO/static/css/main.64f4599e.chunk.css",
-    "main.js": "/NewRevolutionXO/static/js/main.04e6e735.chunk.js",
-    "main.js.map": "/NewRevolutionXO/static/js/main.04e6e735.chunk.js.map",
+    "main.js": "/NewRevolutionXO/static/js/main.cf2edf6d.chunk.js",
+    "main.js.map": "/NewRevolutionXO/static/js/main.cf2edf6d.chunk.js.map",
     "runtime-main.js": "/NewRevolutionXO/static/js/runtime-main.10cc9c2f.js",
     "runtime-main.js.map": "/NewRevolutionXO/static/js/runtime-main.10cc9c2f.js.map",
     "static/css/2.0624914a.chunk.css": "/NewRevolutionXO/static/css/2.0624914a.chunk.css",
     "static/js/2.1d184221.chunk.js": "/NewRevolutionXO/static/js/2.1d184221.chunk.js",
     "static/js/2.1d184221.chunk.js.map": "/NewRevolutionXO/static/js/2.1d184221.chunk.js.map",
     "index.html": "/NewRevolutionXO/index.html",
-    "precache-manifest.a85c8452216283b7d3fc0d37cc72a459.js": "/NewRevolutionXO/precache-manifest.a85c8452216283b7d3fc0d37cc72a459.js",
+    "precache-manifest.a2d522c416f027d72bfb1d9818716fc8.js": "/NewRevolutionXO/precache-manifest.a2d522c416f027d72bfb1d9818716fc8.js",
     "service-worker.js": "/NewRevolutionXO/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/NewRevolutionXO/static/css/2.0624914a.chunk.css.map",
     "static/css/main.64f4599e.chunk.css.map": "/NewRevolutionXO/static/css/main.64f4599e.chunk.css.map",
@@ -55,6 +55,6 @@
     "static/css/2.0624914a.chunk.css",
     "static/js/2.1d184221.chunk.js",
     "static/css/main.64f4599e.chunk.css",
-    "static/js/main.04e6e735.chunk.js"
+    "static/js/main.cf2edf6d.chunk.js"
   ]
 }

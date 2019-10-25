@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NewRevolutionXO/precache-manifest.a85c8452216283b7d3fc0d37cc72a459.js"
+  "/NewRevolutionXO/precache-manifest.a2d522c416f027d72bfb1d9818716fc8.js"
 );
 
 self.addEventListener('message', (event) => {

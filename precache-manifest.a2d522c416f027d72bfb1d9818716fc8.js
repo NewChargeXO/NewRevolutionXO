@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4317d6179d8abe366a125921492cbcb",
+    "revision": "24809ccc5ca68d3db5913cf80754f7ea",
     "url": "/NewRevolutionXO/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NewRevolutionXO/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "c86fadda260fa47a5817",
+    "revision": "1ec30803da5372aba920",
     "url": "/NewRevolutionXO/static/css/main.64f4599e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NewRevolutionXO/static/js/2.1d184221.chunk.js"
   },
   {
-    "revision": "c86fadda260fa47a5817",
-    "url": "/NewRevolutionXO/static/js/main.04e6e735.chunk.js"
+    "revision": "1ec30803da5372aba920",
+    "url": "/NewRevolutionXO/static/js/main.cf2edf6d.chunk.js"
   },
   {
     "revision": "5fa863a59d145423e325",
